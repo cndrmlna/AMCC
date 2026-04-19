@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(255, 0, 0);
+    font-size: 25;
+    }
+
+button {
+    width: 100px;
+    height: 100px;
+}
+
+button:hover {
+    background: red;
+}
